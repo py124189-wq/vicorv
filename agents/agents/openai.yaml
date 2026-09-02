@@ -1,0 +1,4 @@
+interface:
+  display_name: "Similar Customer Development"
+  short_description: "Develop similar customers from benchmark cases"
+  default_prompt: "Use $similar-customer-development to build a similar-customer development plan from my benchmark case."
